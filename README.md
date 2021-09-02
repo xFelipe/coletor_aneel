@@ -1,4 +1,4 @@
-# Coletor de dados de GERAÇÃO DISTRIBUÍDA da ANEEL
+# Coletor de dados de GERAÇÃO DE ENERGIA DISTRIBUÍDA da ANEEL
 
 ### Instruções para uso:
 `git clone <repositorio>`
